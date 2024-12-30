@@ -2,7 +2,7 @@ Hi! I'm Carolina, a dedicated <b> technical writer </b>! With a background in ST
 <br>
 [View My Projects](samplepage.md)
 ## Education
-- Matser of Technical & Professional Communicaiton|Auburn University (_May 2025_)	 			        		
+- Master of Technical & Professional Communicaiton|Auburn University (_May 2025_)	 			        		
 - B.S., Biological Sciences| Virginia Tech (_May 2023_)
 
 ## Work Experience
