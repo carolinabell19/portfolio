@@ -1,4 +1,5 @@
 # Technical Writer
+[View My Work](samplepage.md)
 ## Education
 - Matser of Technical & Professional Communicaiton|Auburn University (_May 2025_)	 			        		
 - B.S., Biological Sciences| Virginia Tech (_May 2023_)
