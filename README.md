@@ -1,6 +1,6 @@
 Hi! I'm Carolina, a dedicated <b> technical writer </b>! With a background in STEM, I am passionate about bridging the divide between technical experts and users. 
 <br>
-[View My Projects](samplepage.md)
+[View My Projects](resume.md)
 ## Education
 - Master of Technical & Professional Communicaiton|Auburn University (_May 2025_)	 			        		
 - B.S., Biological Sciences| Virginia Tech (_May 2023_)
