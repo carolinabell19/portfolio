@@ -1,4 +1,5 @@
 # Technical Writer
+Hi! I'm Carolina, a dedicated technical writer! 
 [View My Work](samplepage.md)
 ## Education
 - Matser of Technical & Professional Communicaiton|Auburn University (_May 2025_)	 			        		
