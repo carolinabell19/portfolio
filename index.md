@@ -14,5 +14,3 @@ Hi! I'm Carolina, a dedicated <b> technical writer </b>. With a background in ST
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## Publications
-
