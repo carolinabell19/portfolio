@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## About Me
+## Clear Communication for Complex Ideas
 
-<p>
-Hi! I'm Carolina, a dedicated <b> technical writer </b>. With a background in STEM, I am passionate about bridging the divide between technical experts and users. 
-</p>
+
+### Hi, I’m Carolina Bell — a <b>technical writer</b> and science communicator passionate about bridging the gap between technology, science, and the people they serve. I specialize in creating accessible, user-focused content. Explore my portfolio to see how my work makes a difference.
+
 
 [View My Resume](resume.md) 
 
