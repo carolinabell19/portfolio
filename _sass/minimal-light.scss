@@ -460,10 +460,6 @@ footer {
 
 @media print, screen and (max-width: 960px) {
 
- .image.avatar img {
-        width: 120px; /* Adjust size for medium screens */
-        padding: 20px;
-    }
  .pub-row {
   display: flex; 
   align-items: center;}
@@ -503,8 +499,9 @@ footer {
 
 
    .image.avatar img {
+        width: 300px; /* Adjust size for medium screens */
+        padding: 20px;
         border-radius: 100%;
-        width: 117px;
         padding:20px;
       }
   #head1o2 {
