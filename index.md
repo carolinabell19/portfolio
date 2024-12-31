@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 
 Hi! I'm Carolina, a dedicated <b> technical writer </b>. With a background in STEM, I am passionate about bridging the divide between technical experts and users. 
-<br>
+<p>
 [View My Resume](resume.md) 
-<br>
+</p>
 
 ## Skills
 
