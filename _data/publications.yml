@@ -3,7 +3,7 @@ main:
   - title: "Tesla Capstone Project"
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: TESLA
-    pdf: 
+    pdf: ./assests/pdf/CBell_DUSGuide.pdf
     image: ./assets/img/tesla.png
     notes: Work is proprietary, but capstone presentation is available upon request.
   
