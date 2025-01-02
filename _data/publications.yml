@@ -3,11 +3,9 @@ main:
   - title: "Tesla Capstone Project"
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: TESLA
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    pdf: 
     image: ./assets/img/tesla.png
-    notes: Work is proprietary, but capstone presentation is availible upon request.
+    notes: Work is proprietary, but capstone presentation is available upon request.
   
   - title: "Alabama Department of Health User Research Project"
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
